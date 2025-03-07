@@ -58,5 +58,6 @@ npx expo start
 5️⃣ Crea un Pull Request. 🚀
 
 📌 Contacto
-👨‍💻 Desarrollado por Tu Daniel Ararat Gomez (dArt).
+
+👨‍💻 Desarrollado por Daniel Ararat Gomez (dArt).
 📧 Correo: danielararat@hotmail.com
