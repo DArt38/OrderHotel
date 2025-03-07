@@ -1,4 +1,4 @@
-# 🏨 App de Gestión de Pedidos para Hoteles
+# 🏨 App Gestión de Pedidos para Hoteles
 
 Aplicación móvil desarrollada con **Expo (React Native)** para gestionar pedidos en un hotel, permitiendo a los clientes realizar órdenes y a la recepción, cocina y bar ver los pedidos en tiempo real.
 
